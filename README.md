@@ -1,4 +1,4 @@
-# [Project Report] (visualizing_transcript_coverage.pdf)
+# [Project Report](visualizing_transcript_coverage.pdf)
 
 # Execute All
  Execute run.sh to run all binaries together.
